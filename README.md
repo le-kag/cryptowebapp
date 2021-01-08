@@ -6,4 +6,4 @@ Created with Streamlit, pandas, matplotlib, etc.
 
 Enjoy!
 
-- Chris
+Chris
