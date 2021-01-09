@@ -1,5 +1,5 @@
 streamlit==0.74.1
-pandas==1.2.0
+pandas==0.25.3
 pillow==8.1.0
 matplotlib==3.3.3
 bs4==0.0.1
