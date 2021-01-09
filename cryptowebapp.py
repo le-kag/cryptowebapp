@@ -49,7 +49,7 @@ col2, col3 = st.beta_columns((2,1))
 col1.header('Input Options')
 
 ## Sidebar - Currency price unit
-currency_price_unit = col1.selectbox('Select currency for price', ('USD', , ))
+currency_price_unit = col1.selectbox('Select currency for price', ('USD', '' , ''))
 
 # Web scraping of CoinMarketCap data
 @st.cache
