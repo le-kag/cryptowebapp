@@ -1,0 +1,9 @@
+streamlit==0.74.1
+pandas==1.2.0
+pillow==8.1.0
+matplotlib==3.3.3
+bs4==0.0.1
+requests==2.25.1
+jsonschema==3.2.0
+
+
