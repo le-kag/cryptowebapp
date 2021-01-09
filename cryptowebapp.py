@@ -26,7 +26,7 @@ st.image(image, width= 300)
 
 st.title('Crypto Price Web App')
 st.markdown("""
-## Curious about the hype behind Cryptocurrenices lately? Well, here's a web that provides top 100 crypto prices from  CoinMarketCap
+## Curious about the hype behind Cryptocurrenices lately? Well, here's a small web app that provides top 100 crypto prices from  CoinMarketCap
 Created by Chris Kagabe (Thanks to freeCodeCamp.org)
 """)
 #---------------------------------#
